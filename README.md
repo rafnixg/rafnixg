@@ -1,4 +1,12 @@
-### Hi there 👋
+# Rafnix Guzmán
+
+Hi, I'm [@rafnixg](https://twitter.com/rafnixg), Senior Web Developer.
+
+## Get in touch
+
+- Twitter: https://twitter.com/rafnixg
+- Personal Site: https://rafnixg.dev
+
 
 <!--
 **rafnixg/rafnixg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
