@@ -1,7 +1,7 @@
 ## Hi, I'm Rafnix
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
+![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
 
 ```python
 class RafnixG:
@@ -39,3 +39,9 @@ if __name__ == '__main__':
 
 
 - [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
+
+- [Crea tu blog con python usando GitHub Pages y Pelican](https://rafnixg.dev/crea-tu-blog-con-python-usando-github-pages-y-pelican/)
+
+- [Deploy usando GIT-FTP](https://rafnixg.dev/deploy-usando-git-ftp/)
+
+- [Ejecutar Código JavaScript en Sublime Text](https://rafnixg.dev/ejecutar-codigo-javascript-en-sublime-text/)
