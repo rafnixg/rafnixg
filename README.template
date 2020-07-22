@@ -35,5 +35,6 @@ if __name__ == '__main__':
 
 ## Latest Posts
 
-
-- [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
+{% for post in latest_post %}
+- [{{post.title}}]({{post.link}})
+{%  endfor %}
