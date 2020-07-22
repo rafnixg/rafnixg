@@ -6,7 +6,6 @@ name: Python application
 on:
   schedule:
     - cron: "*/15 * * * *"
-  
 
 jobs:
   build:
@@ -26,3 +25,8 @@ jobs:
     - name: Run script
       run: |
         python app.py
+        git config user.name rafnixg
+        git config user.email rafnixg@gmail.com
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "[BOT] Update README with latest info"
+        git push origin master
