@@ -33,7 +33,7 @@ if __name__ == '__main__':
 - Twitter: https://twitter.com/rafnixg
 - Personal Site: https://rafnixg.dev
 
-## Latest Posts
+## Latest Posts (Spanish)
 
 {% for post in latest_post %}
 - [{{post.title}}]({{post.link}})
