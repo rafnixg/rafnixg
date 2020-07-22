@@ -1,6 +1,8 @@
 ## Hi, I'm Rafnix
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 
+![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
+
 ```python
 class RafnixG:
 
