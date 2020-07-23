@@ -38,9 +38,9 @@ if __name__ == '__main__':
 ## Latest Posts (Spanish)
 
 
-- [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
-
 - [Crea tu blog con python usando GitHub Pages y Pelican](https://rafnixg.dev/crea-tu-blog-con-python-usando-github-pages-y-pelican/)
+
+- [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
 
 - [Deploy usando GIT-FTP](https://rafnixg.dev/deploy-usando-git-ftp/)
 
