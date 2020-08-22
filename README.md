@@ -38,12 +38,12 @@ if __name__ == '__main__':
 ## Latest Posts (Spanish)
 
 
-- [Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 3](https://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-3/)
+- [Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 3](http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-3/)
 
-- [Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 2](https://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-2/)
+- [Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 2](http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-2/)
 
-- [Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 1](https://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-1/)
+- [Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 1](http://rafnixg.dev/actualiza-tu-perfil-de-github-con-readme-y-github-actions-part-1/)
 
-- [Crea tu blog con python usando GitHub Pages y Pelican](https://rafnixg.dev/crea-tu-blog-con-python-usando-github-pages-y-pelican/)
+- [Crea tu blog con python usando GitHub Pages y Pelican](http://rafnixg.dev/crea-tu-blog-con-python-usando-github-pages-y-pelican/)
 
-- [🐍 Entornos virtuales en Python usando Pipenv](https://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
+- [🐍 Entornos virtuales en Python usando Pipenv](http://rafnixg.dev/entornos-virtuales-en-python-usando-pipenv/)
