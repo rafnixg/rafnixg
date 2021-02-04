@@ -2,7 +2,7 @@
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
-[![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rafnixg&show-header=true)](https://profile.codersrank.io/user/rafnixg)
+
 
 ```python
 class RafnixG:
@@ -31,6 +31,8 @@ if __name__ == '__main__':
 
 
 ```
+
+[![Summary widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rafnixg&show-header=true)](https://profile.codersrank.io/user/rafnixg)
 ## Get in touch
 
 - Twitter: https://twitter.com/rafnixg
