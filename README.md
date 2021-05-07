@@ -12,12 +12,12 @@ class RafnixG:
         self.web = 'https://rafnixg.dev'
         self.twitter = '@rafnixg'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'SASS'],
             'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Firebase', 'DynamoDB'],
+            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku', 'Terraform', 'Travis CI'],
+            'extra-tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
+            'misc': ['TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
