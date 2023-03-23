@@ -1,4 +1,4 @@
-## Hi, I'm Rafnix
+## Hi, I'm Rafnix Guzmán a Python Software Developer
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
@@ -8,24 +8,28 @@ class RafnixG:
     def __init__(self):
         self.username = 'rafnixg'
         self.name = 'Rafnix Guzmán'
+        self.position = 'Python Software Developer'
         self.web = 'https://rafnixg.dev'
+        self.blog = 'https://blog.rafnixg.dev'
+        self.cv = 'https://rafnixg.dev/resume'
         self.twitter = '@rafnixg'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap', 'TailWind'],
-            'backend': ['Python', 'PHP', 'Flask', 'Django', 'Laravel', 'NodeJS', 'Odoo'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-            'devops': ['Docker', 'Nginx', 'Jenkins', 'GitHub Actions', 'AWS', 'Heroku'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Redis', 'Celery'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
+            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
     def __str__(self):
-        return self.name
+        return f'{self.name} | {self.position}'
 
 
 if __name__ == '__main__':
     me = RafnixG()
+    print(me)
 
 
 ```
@@ -37,6 +41,8 @@ if __name__ == '__main__':
 
 - Twitter: https://twitter.com/rafnixg
 - Personal Site: https://rafnixg.dev
+- CV Resume: https://rafnixg.dev/resume
+- Personal Blog: https://blog.rafnixg.dev
 
 ## Latest Posts (Spanish)
 
