@@ -304,6 +304,20 @@
                                 </svg>
                                 <div class="infos">
                                     <div class="left">
+                                        <div class="date">22 Mar 2023</div>
+                                        <div class="cover" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==);"></div>
+                                    </div>
+                                    <div class="right">
+                                        <div class="title">Crea tu propio chatbot con la API de OpenAI y Gradio en Python</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="field post largeable-width-half">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
+                                </svg>
+                                <div class="infos">
+                                    <div class="left">
                                         <div class="date">20 Mar 2023</div>
                                         <div class="cover" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==);"></div>
                                     </div>
@@ -368,20 +382,6 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="field post largeable-width-half">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
-                                </svg>
-                                <div class="infos">
-                                    <div class="left">
-                                        <div class="date">28 Jul 2020</div>
-                                        <div class="cover" style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==);"></div>
-                                    </div>
-                                    <div class="right">
-                                        <div class="title">Actualiza tu perfil de GitHub con README y GitHub Actions - Parte 1</div>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </section>
                 </div>
@@ -429,7 +429,7 @@
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                51.3k
+                                                51.4k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -968,7 +968,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 489k out of 387m repositories</span>
+                                    <span class="gh">ranked 490k out of 387m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 22 times</div>
                             </div>
@@ -983,7 +983,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="19.23923923923924 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="19.394394394394396 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1006,9 +1006,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 253k out of 387m repositories</span>
+                                    <span class="gh">ranked 251k out of 387m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 125 stars</div>
+                                <div class="text">Maintaining a repository with 126 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1207,7 +1207,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Mar 2023, 05:11:33 (timezone America/Lima) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Mar 2023, 10:11:42 (timezone America/Lima) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
