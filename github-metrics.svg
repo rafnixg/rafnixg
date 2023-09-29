@@ -968,7 +968,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 516k out of 52.1m repositories</span>
+                                    <span class="gh">ranked 516k out of 53m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 22 times</div>
                             </div>
@@ -983,7 +983,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.703703703703702 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.54854854854855 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1006,9 +1006,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 197k out of 52.1m repositories</span>
+                                    <span class="gh">ranked 198k out of 53m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 186 stars</div>
+                                <div class="text">Maintaining a repository with 185 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1207,7 +1207,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2023, 00:03:25 (timezone America/Lima) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2023, 05:03:35 (timezone America/Lima) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
