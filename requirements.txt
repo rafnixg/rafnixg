@@ -7,5 +7,5 @@ mccabe==0.6.1
 pylint==2.5.3
 six==1.15.0
 toml==0.10.1
-urllib3==1.26.5
+urllib3==1.26.18
 wrapt==1.12.1
