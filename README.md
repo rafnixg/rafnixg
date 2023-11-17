@@ -10,8 +10,9 @@ class RafnixG:
         self.name = 'Rafnix Guzmán'
         self.position = 'Python Software Developer'
         self.web = 'https://rafnixg.dev'
+        self.links = 'https://links.rafnixg.dev'
         self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://rafnixg.dev/resume'
+        self.cv = 'https://resume.rafnixg.dev'
         self.twitter = '@rafnixg'
         self.code = {
             'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
@@ -38,10 +39,11 @@ if __name__ == '__main__':
 
 ## Get in touch
 
-- Twitter: https://twitter.com/rafnixg
 - Personal Site: https://rafnixg.dev
-- CV Resume: https://rafnixg.dev/resume
+- Links: https://links.rafnixg.dev
+- CV Resume: https://resume.rafnixg.dev
 - Personal Blog: https://blog.rafnixg.dev
+- Twitter: https://twitter.com/rafnixg
 
 ## Latest Posts (Spanish)
 
