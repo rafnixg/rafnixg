@@ -39,10 +39,10 @@ if __name__ == '__main__':
 
 ## Get in touch
 
-- Personal Site: https://rafnixg.dev
-- Links: https://links.rafnixg.dev
-- CV Resume: https://resume.rafnixg.dev
-- Personal Blog: https://blog.rafnixg.dev
+- Personal Site: https://rafnixg.dev?ref=github-banner
+- Links: https://links.rafnixg.dev?ref=github-banner
+- CV Resume: https://resume.rafnixg.dev?ref=github-banner
+- Personal Blog: https://blog.rafnixg.dev?ref=github-banner
 - Twitter: https://twitter.com/rafnixg
 
 ## Latest Posts (Spanish)
