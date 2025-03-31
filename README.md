@@ -1,4 +1,4 @@
-## Hi, I'm Rafnix Guzm谩n a Python Software Developer
+## Hi, I'm Rafnix Guzm醤 a Python Software Developer
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
@@ -7,7 +7,7 @@ class RafnixG:
 
     def __init__(self):
         self.username = 'rafnixg'
-        self.name = 'Rafnix Guzm谩n'
+        self.name = 'Rafnix Guzm醤'
         self.position = 'Python Software Developer'
         self.web = 'https://rafnixg.dev'
         self.links = 'https://links.rafnixg.dev'
@@ -46,12 +46,12 @@ if __name__ == '__main__':
 ## Latest Posts (Spanish)
 
 
-- [Shell de Odoo: Domina Operaciones Avanzadas, Integraci贸n de Librer铆as y Automatizaci贸n de Tareas](https://blog.rafnixg.dev/shell-de-odoo-domina-operaciones-avanzadas-integracion-de-librerias-y-automatizacion-de-tareas)
+- [Shell de Odoo: Domina Operaciones Avanzadas, Integraci髇 de Librer韆s y Automatizaci髇 de Tareas](https://blog.rafnixg.dev/shell-de-odoo-domina-operaciones-avanzadas-integracion-de-librerias-y-automatizacion-de-tareas)
 
-- [Explorando Odoo a fondo: C贸mo trabajar con la shell de la CLI y configurar IPython como REPL](https://blog.rafnixg.dev/explorando-odoo-a-fondo-como-trabajar-con-la-shell-de-la-cli-y-configurar-ipython-como-repl)
+- [Explorando Odoo a fondo: C髆o trabajar con la shell de la CLI y configurar IPython como REPL](https://blog.rafnixg.dev/explorando-odoo-a-fondo-como-trabajar-con-la-shell-de-la-cli-y-configurar-ipython-como-repl)
 
 - [Crea tu propio chatbot con la API de OpenAI y Gradio en Python](https://blog.rafnixg.dev/crea-tu-propio-chatbot-con-la-api-de-openai-y-gradio-en-python)
 
-- [Los servicios que uso en mi HomeLab server: virtualizaci贸n, contenedores y m谩s.](https://blog.rafnixg.dev/los-servicios-que-uso-en-mi-homelab-server-virtualizacion-contenedores-y-mas)
+- [Los servicios que uso en mi HomeLab server: virtualizaci髇, contenedores y m醩.](https://blog.rafnixg.dev/los-servicios-que-uso-en-mi-homelab-server-virtualizacion-contenedores-y-mas)
 
 - [Creando un entorno de desarrollo para Odoo 14.0 con VSCode en Ubuntu 22.04](https://blog.rafnixg.dev/creando-un-entorno-de-desarrollo-para-odoo-140-con-vscode-en-ubuntu-2204)
