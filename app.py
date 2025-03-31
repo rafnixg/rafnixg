@@ -57,6 +57,8 @@ def main():
     # Render the README.md file
     render_readme(data)
 
+    # Print the rendered template
+    print("README.md file rendered successfully.")
 
 if __name__ == "__main__":
     main()
