@@ -47,6 +47,7 @@ def main():
     """Main function to render README.md file with latest blog posts."""
     # Get the latest blog posts
     latest_posts = get_latest_posts(MAX_POSTS)
+    print("Latest posts: ", latest_posts)
     # Check if latest_posts is None
     if not latest_posts:
         raise ValueError("Latest posts are None")
