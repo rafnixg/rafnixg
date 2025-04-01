@@ -10,9 +10,6 @@ MAX_POSTS = 5
 # Setup Jinja2 environment
 env = Environment(loader=FileSystemLoader('.'))
 
-# Load blog posts Instance
-blog_posts = BlogPosts()
-
 
 def get_latest_posts(max_posts: int) -> list:
     """Get the latest blog posts.
@@ -25,7 +22,7 @@ def get_latest_posts(max_posts: int) -> list:
     if not max_posts:
         max_posts = MAX_POSTS
     # Get the latest blog posts
-    data = blog_posts.posts
+    data = BlogPosts().posts
     return data[0:max_posts]
 
 def render_readme(data: dict) -> None:
