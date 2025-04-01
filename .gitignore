@@ -1,2 +1,18 @@
 .vscode
 env
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*.ipynb_checkpoints
+*.ipynb_checkpoints
+
+
