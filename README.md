@@ -46,12 +46,12 @@ if __name__ == '__main__':
 ## Latest Posts (Spanish)
 
 
-- [⚙️ Como automatizar tu librería en PyPI con GitHub Actions](https://blog.rafnixg.dev/como-automatizar-tu-libreria-en-pypi-con-github-actions)
-
-- [🏗️ Cómo publicar tu propia librería de Python: Guía paso a paso](https://blog.rafnixg.dev/como-publicar-tu-propia-libreria-de-python-guia-paso-a-paso)
+- [Cómo publicar tu propia librería de Python: Guía paso a paso](https://blog.rafnixg.dev/como-publicar-tu-propia-libreria-de-python-guia-paso-a-paso)
 
 - [Shell de Odoo: Domina Operaciones Avanzadas, Integración de Librerías y Automatización de Tareas](https://blog.rafnixg.dev/shell-de-odoo-domina-operaciones-avanzadas-integracion-de-librerias-y-automatizacion-de-tareas)
 
 - [Explorando Odoo a fondo: Cómo trabajar con la shell de la CLI y configurar IPython como REPL](https://blog.rafnixg.dev/explorando-odoo-a-fondo-como-trabajar-con-la-shell-de-la-cli-y-configurar-ipython-como-repl)
 
 - [Crea tu propio chatbot con la API de OpenAI y Gradio en Python](https://blog.rafnixg.dev/crea-tu-propio-chatbot-con-la-api-de-openai-y-gradio-en-python)
+
+- [Los servicios que uso en mi HomeLab server: virtualización, contenedores y más.](https://blog.rafnixg.dev/los-servicios-que-uso-en-mi-homelab-server-virtualizacion-contenedores-y-mas)
