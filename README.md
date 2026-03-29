@@ -48,6 +48,8 @@ if __name__ == '__main__':
 ## Latest Posts (Spanish)
 
 
+- [Nanobot: Arquitectura y Funcionamiento del Agente IA Ultra-ligero](https://blog.rafnixg.dev/nanobot-arquitectura-y-funcionamiento-del-agente-ia-ultra-ligero)
+
 - [⚙️ Como automatizar tu librería en PyPI con GitHub Actions](https://blog.rafnixg.dev/como-automatizar-tu-libreria-en-pypi-con-github-actions)
 
 - [🏗️ Cómo publicar tu propia librería de Python: Guía paso a paso](https://blog.rafnixg.dev/como-publicar-tu-propia-libreria-de-python-guia-paso-a-paso)
@@ -55,5 +57,3 @@ if __name__ == '__main__':
 - [Shell de Odoo: Domina Operaciones Avanzadas, Integración de Librerías y Automatización de Tareas](https://blog.rafnixg.dev/shell-de-odoo-domina-operaciones-avanzadas-integracion-de-librerias-y-automatizacion-de-tareas)
 
 - [Explorando Odoo a fondo: Cómo trabajar con la shell de la CLI y configurar IPython como REPL](https://blog.rafnixg.dev/explorando-odoo-a-fondo-como-trabajar-con-la-shell-de-la-cli-y-configurar-ipython-como-repl)
-
-- [Crea tu propio chatbot con la API de OpenAI y Gradio en Python](https://blog.rafnixg.dev/crea-tu-propio-chatbot-con-la-api-de-openai-y-gradio-en-python)
