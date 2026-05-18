@@ -1,7 +1,5 @@
 """Render README.md file with latest blog posts."""
 
-from json import JSONDecodeError
-
 from jinja2 import Environment, FileSystemLoader
 from requests.exceptions import RequestException
 from rafnixg import BlogPosts
@@ -14,7 +12,7 @@ MAX_POSTS = 5
 env = Environment(loader=FileSystemLoader('.'))
 
 
-def get_latest_posts(max_posts: int) -> list:
+def get_latest_posts(max_posts: int) -> list | None:
     """Get the latest blog posts.
     Args:
         max_posts (int): Number of posts to show.
@@ -27,13 +25,13 @@ def get_latest_posts(max_posts: int) -> list:
     # Get the latest blog posts
     try:
         data = BlogPosts().posts
-    except (RequestException, JSONDecodeError):
+    except RequestException:
         print(
             "Failed to fetch blog posts from upstream API "
             "due to network or data format issues. "
             "README update will be skipped for this run."
         )
-        return []
+        return None
     return data[0:max_posts]
 
 def render_readme(data: dict) -> None:
@@ -57,8 +55,11 @@ def main():
     latest_posts = get_latest_posts(MAX_POSTS)
     print("Latest posts: ", latest_posts)
     # Check if latest_posts is None
+    if latest_posts is None:
+        print("Post fetch failed; skipping README update for this run.")
+        return
     if not latest_posts:
-        print("No posts were fetched; skipping README update for this run.")
+        print("No posts are currently available; skipping README update for this run.")
         return
     # Data to render
     data = {
