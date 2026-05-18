@@ -27,7 +27,7 @@ def get_latest_posts(max_posts: int) -> list:
     # Get the latest blog posts
     try:
         data = BlogPosts().posts
-    except (RequestException, JSONDecodeError, ValueError):
+    except (RequestException, JSONDecodeError):
         print(
             "Failed to fetch blog posts from upstream API. "
             "README update will be skipped for this run."
