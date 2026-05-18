@@ -27,9 +27,10 @@ def get_latest_posts(max_posts: int) -> list:
     # Get the latest blog posts
     try:
         data = BlogPosts().posts
-    except (RequestException, JSONDecodeError):
+    except (RequestException, JSONDecodeError) as exc:
         print(
-            "Failed to fetch blog posts from upstream API. "
+            "Failed to fetch blog posts from upstream API "
+            f"({exc.__class__.__name__}). "
             "README update will be skipped for this run."
         )
         return []
@@ -57,7 +58,7 @@ def main():
     print("Latest posts: ", latest_posts)
     # Check if latest_posts is None
     if not latest_posts:
-        print("No latest posts available; skipping README update.")
+        print("No posts were fetched; skipping README update for this run.")
         return
     # Data to render
     data = {
