@@ -27,10 +27,10 @@ def get_latest_posts(max_posts: int) -> list:
     # Get the latest blog posts
     try:
         data = BlogPosts().posts
-    except (RequestException, JSONDecodeError) as exc:
+    except (RequestException, JSONDecodeError):
         print(
             "Failed to fetch blog posts from upstream API "
-            f"({exc.__class__.__name__}). "
+            "due to network or data format issues. "
             "README update will be skipped for this run."
         )
         return []
