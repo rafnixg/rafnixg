@@ -22,7 +22,11 @@ def get_latest_posts(max_posts: int) -> list:
     if not max_posts:
         max_posts = MAX_POSTS
     # Get the latest blog posts
-    data = BlogPosts().posts
+    try:
+        data = BlogPosts().posts
+    except Exception as exc:
+        print(f"Failed to fetch blog posts: {exc}")
+        return []
     return data[0:max_posts]
 
 def render_readme(data: dict) -> None:
@@ -47,7 +51,8 @@ def main():
     print("Latest posts: ", latest_posts)
     # Check if latest_posts is None
     if not latest_posts:
-        raise ValueError("Latest posts are None")
+        print("No latest posts available; skipping README update.")
+        return
     # Data to render
     data = {
         'latest_post': latest_posts
