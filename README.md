@@ -1,6 +1,6 @@
 ## Hi, I'm Rafnix Guzmán a Python Software Developer
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
-![](https://umami.rafnixg.dev/p/itcGAqYie)
+
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/rafnixg/rafnixg)
@@ -47,3 +47,13 @@ if __name__ == '__main__':
 
 ## Latest Posts (Spanish)
 
+
+- [Nanobot: Arquitectura y Funcionamiento del Agente IA Ultra-ligero](https://blog.rafnixg.dev/nanobot-arquitectura-y-funcionamiento-del-agente-ia-ultra-ligero)
+
+- [⚙️ Como automatizar tu librería en PyPI con GitHub Actions](https://blog.rafnixg.dev/como-automatizar-tu-libreria-en-pypi-con-github-actions)
+
+- [🏗️ Cómo publicar tu propia librería de Python: Guía paso a paso](https://blog.rafnixg.dev/como-publicar-tu-propia-libreria-de-python-guia-paso-a-paso)
+
+- [Shell de Odoo: Domina Operaciones Avanzadas, Integración de Librerías y Automatización de Tareas](https://blog.rafnixg.dev/shell-de-odoo-domina-operaciones-avanzadas-integracion-de-librerias-y-automatizacion-de-tareas)
+
+- [Explorando Odoo a fondo: Cómo trabajar con la shell de la CLI y configurar IPython como REPL](https://blog.rafnixg.dev/explorando-odoo-a-fondo-como-trabajar-con-la-shell-de-la-cli-y-configurar-ipython-como-repl)
