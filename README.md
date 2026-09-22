@@ -1,6 +1,6 @@
 ## Hi, I'm Rafnix Guzmán a Python Software Developer
 ![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
-
+![](https://umami.rafnixg.dev/p/itcGAqYie)
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/rafnixg/rafnixg)
