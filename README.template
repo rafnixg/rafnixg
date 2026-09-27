@@ -1,52 +1,34 @@
-## Hi, I'm Rafnix Guzmán a Python Software Developer
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
-![](https://umami.rafnixg.dev/p/itcGAqYie)
-![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/rafnixg/rafnixg)
-```python
-class RafnixG:
+![Rafnix Guzmán — Python Backend, AI Engineering & Odoo](./profile-header.svg)
 
-    def __init__(self):
-        self.username = 'rafnixg'
-        self.name = 'Rafnix Guzmán'
-        self.position = 'Python Software Developer'
-        self.web = 'https://rafnixg.dev'
-        self.links = 'https://links.rafnixg.dev'
-        self.blog = 'https://blog.rafnixg.dev'
-        self.cv = 'https://resume.rafnixg.dev'
-        self.twitter = '@rafnixg'
-        self.code = {
-            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
-            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
-        }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+# Hola, soy Rafnix 👋 / Hi, I'm Rafnix
 
-    def __str__(self):
-        return f'{self.name} | {self.position}'
+**ES** · Soy desarrollador Python especializado en backend, Odoo e IA aplicada. Llevo más de 15 años construyendo sistemas web e integraciones para empresas. Me interesa convertir problemas complejos en herramientas útiles y compartir lo que aprendo en el camino.
 
+**EN** · I'm a Python developer focused on backend systems, Odoo, and applied AI. For over 15 years, I've built web systems and integrations for businesses. I enjoy turning complex problems into useful tools and sharing what I learn along the way.
 
-if __name__ == '__main__':
-    me = RafnixG()
-    print(me)
+[Sitio web / Website](https://rafnixg.dev) · [Proyectos / Projects](https://rafnixg.dev/projects.html) · [CV / Résumé](https://resume.rafnixg.dev) · [LinkedIn](https://www.linkedin.com/in/rafnixg/)
 
+## En qué trabajo / What I work on
 
-```
+**Backend y ERP / Backend & ERP** · APIs, Odoo e integraciones con Python, FastAPI, Django y PostgreSQL. / APIs, Odoo and integrations built with Python, FastAPI, Django and PostgreSQL.
 
-## Get in touch
+**IA aplicada / Applied AI** · Agentes, flujos RAG y herramientas con LLM. / Agents, RAG pipelines and LLM tools.
 
-- Personal Site: https://rafnixg.dev?ref=github-banner
-- Links: https://links.rafnixg.dev?ref=github-banner
-- CV Resume: https://resume.rafnixg.dev?ref=github-banner
-- Personal Blog: https://blog.rafnixg.dev?ref=github-banner
-- Twitter: https://twitter.com/rafnixg
+**Infraestructura / Infrastructure** · Docker, Proxmox, Linux y automatización CI/CD. / Docker, Proxmox, Linux and CI/CD automation.
 
-## Latest Posts (Spanish)
+## Proyectos destacados / Selected work
 
-{% for post in latest_post %}
-- [{{post.title}}]({{post.link}})
-{%  endfor %}
+- **[Femtobot](https://github.com/rafnixg/femtobot)** · Una demostración educativa de agentes conversacionales en Python. / An educational Python conversational agent demo.
+- **[SismosVE](https://github.com/rafnixg/sismosve)** · Monitoreo de sismos en Venezuela con FastAPI y un mapa interactivo. / Venezuela earthquake monitoring with FastAPI and an interactive map.
+- **[Own WSGI](https://github.com/rafnixg/own_wsgi)** · Un servidor WSGI construido desde cero para explorar cómo funciona la web por dentro. / A WSGI server built from scratch to explore web internals.
+
+[Explorar más proyectos / Explore more projects →](https://rafnixg.dev/projects.html)
+
+## Artículos recientes / Recent writing
+
+{% if latest_post %}{% for post in latest_post %}- [{{ post.title }}]({{ post.link }})
+{% endfor %}{% else %}[Ver artículos en el blog / Read articles on the blog →](https://blog.rafnixg.dev)
+{% endif %}
+## Hablemos / Let's connect
+
+[Blog](https://blog.rafnixg.dev) · [Todos mis enlaces / All my links](https://links.rafnixg.dev) · [LinkedIn](https://www.linkedin.com/in/rafnixg/)

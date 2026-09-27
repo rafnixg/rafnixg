@@ -8,7 +8,7 @@ from rafnixg import BlogPosts
 MAX_POSTS = 5
 
 # Setup Jinja2 environment
-env = Environment(loader=FileSystemLoader('.'))
+env = Environment(loader=FileSystemLoader('.'), keep_trailing_newline=True)
 
 
 def get_latest_posts(max_posts: int) -> list:

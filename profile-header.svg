@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Rafnix Guzmán</title>
+  <desc id="desc">Python Backend, AI Engineering and Odoo</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#102d31"/>
+      <stop offset="1" stop-color="#16494a"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <path d="M72 68h44" stroke="#f5b544" stroke-width="5" stroke-linecap="round"/>
+  <text x="72" y="150" fill="#f6f3e9" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Rafnix Guzmán</text>
+  <text x="76" y="207" fill="#f5b544" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" letter-spacing="2">PYTHON BACKEND  ·  AI ENGINEERING  ·  ODOO</text>
+  <text x="76" y="258" fill="#c2d5d1" font-family="Arial, Helvetica, sans-serif" font-size="19">rafnixg.dev</text>
+  <circle cx="1084" cy="110" r="72" fill="none" stroke="#f5b544" stroke-width="2" stroke-opacity=".7"/>
+  <circle cx="1084" cy="110" r="48" fill="none" stroke="#f5b544" stroke-width="2" stroke-opacity=".45"/>
+  <circle cx="1084" cy="110" r="8" fill="#f5b544"/>
+  <path d="M970 242h156" stroke="#c2d5d1" stroke-width="2" stroke-opacity=".45"/>
+</svg>
